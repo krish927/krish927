@@ -1,6 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?center=true&color=27F74E&lines=Hi...+I+am+Krishan+Kant+Gautam;Working+on+something+new..." width="100%">
 <hr/>
-<img height="300" width="300" alt="Pankaj Phour" align="right" src="https://instagram.fbom19-3.fna.fbcdn.net/v/t51.2885-15/271467902_1595784460788571_350662325584800422_n.webp?stp=dst-jpg_e35&_nc_ht=instagram.fbom19-3.fna.fbcdn.net&_nc_cat=107&_nc_ohc=A6K9Yxs7Xt8AX9SbyPP&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=Mjc0NTgxMzI0Mjc1Nzg4NTU0MA%3D%3D.2-ccb7-5&oh=00_AT__b7C3UAMw37aQLd3GYuhYPMCNy86dsAT-BPRbKCIntg&oe=633CE127&_nc_sid=30a2ef">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=krish927&label=Profile%20views&color=0e75b6&style=flat" alt="pankaj-phour" /> </p>
 
  All of my projects are available at https://github.com/krish927
